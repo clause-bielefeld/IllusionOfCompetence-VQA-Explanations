@@ -1,6 +1,6 @@
 # The Illusion of Competence: Evaluating the Effect of Explanations on Users’ Mental Models of Visual Question Answering Systems
 
-This is the code for our paper "The Illusion of Competence: Evaluating the Effect of Explanations on Users’ Mental Models of Visual Question Answering Systems" (EMNLP 2024)
+This is the data and code for our paper "The Illusion of Competence: Evaluating the Effect of Explanations on Users’ Mental Models of Visual Question Answering Systems" (EMNLP 2024)
 
 ## Files
 - **data/Data_selection.xlsx**: This file contains the data used for both experiments, along with the encoding of the experimental conditions and the distribition across the experimental lists.
